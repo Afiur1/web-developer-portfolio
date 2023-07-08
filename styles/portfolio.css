@@ -91,8 +91,39 @@ nav a{
     margin-top: 20px;
     margin-bottom: 27px;
 }
+
+/* main section style */
+
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+
+
+/* about sectio */
+
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+}
 .about{
     padding: 130px 0;
     border-radius: 10px;
     background: #FFF8F3;
+    margin: 130px 0; 
+    justify-content: center;
 }
+.about title{
+
+
+}
+.about-description{
+    padding: 0 156px 0 156px
+
+}
+
+.about-info{
+    text-align: center;
+}
+
